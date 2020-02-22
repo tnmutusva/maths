@@ -1,10 +1,11 @@
-
-## Contact Information
+  
 
 ```{r echo=FALSE}
 library(knitr)
 library(kableExtra)
 ```
+## Contact Information
+
 
 ```{r echo=FALSE}
 text_tbl <- data.frame(
@@ -22,5 +23,5 @@ kable(text_tbl) %>%
   column_spec(2, width = "30em")
 ```
 
-
+ ![ ](/Users/admin/Documents/GitHub/maths/band4.png)
 
