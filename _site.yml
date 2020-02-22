@@ -14,8 +14,8 @@ navbar:
 
 output:
   html_document:
-    theme: cosmo
+    theme: cerulean
     highlight: textmate
     include:
      after_body: footer.Rhtml
-     css: css/rmarkdown.css
+     
