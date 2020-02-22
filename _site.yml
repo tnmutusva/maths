@@ -1,6 +1,5 @@
 name: "trevor-mutusva"
 output_dir: "."
-theme: cosmo
 
 navbar:
   title: "Trevor Mutusva"
@@ -18,4 +17,7 @@ output:
     highlight: textmate
     include:
      after_body: footer.Rhtml
+     
+     
+     
      
