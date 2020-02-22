@@ -9,6 +9,6 @@ navbar:
       href: index.html
     - text: "HIT Mathematics"
       href: HIT_mathematics.html
-    - text: "Markdown"
+    - text: "rmarkdown"
       href: Rmarkdown.html
 
