@@ -10,12 +10,11 @@ navbar:
     - text: "HIT Mathematics"
       href: HIT_mathematics.html
     - text: "rmarkdown"
-      href: Rmarkdown.html
+      href: rmarkdown.html
 
 output:
   html_document:
     theme: cosmo
     highlight: textmate
     include:
-      after_body: footer.html
-      css: css/rmarkdown.css
+     css: css/rmarkdown.css
