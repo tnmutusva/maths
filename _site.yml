@@ -7,8 +7,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "HIT Mathematics"
+      href: HIT_mathematics.html
     - text: "Markdown"
       href: Rmarkdown.html
 
