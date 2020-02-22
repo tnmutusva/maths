@@ -1,7 +1,12 @@
 ---
-title: "HIT Mathematics"
-author: "Trevor"
-date: "2/22/2020"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
 ---
 
-# HIT 122: Mathematics For Technologists II
+### General Academic Regulations
+
+### [HIT 122: Mathematics For Technologists II](hit122.html)
+
+### [ISS 126: Number Theory](iss126.html)
