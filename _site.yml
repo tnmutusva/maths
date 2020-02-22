@@ -17,4 +17,5 @@ output:
     theme: cosmo
     highlight: textmate
     include:
+     after_body: footer.Rhtml
      css: css/rmarkdown.css
