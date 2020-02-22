@@ -1,0 +1,14 @@
+name: "trevor-mutusva"
+output_dir: "."
+theme: cosmo
+
+navbar:
+  title: "Trevor Mutusva"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Markdown"
+      href: Rmarkdown.html
+
