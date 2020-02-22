@@ -12,3 +12,10 @@ navbar:
     - text: "rmarkdown"
       href: Rmarkdown.html
 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+      css: css/rmarkdown.css
