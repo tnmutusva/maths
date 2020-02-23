@@ -5,10 +5,10 @@ output:
     toc_depth: 2
 ---
 
-### General Academic Regulations
+
 
 ### [HIT 122: Mathematics For Technologists II](hit122.html)
 
 ### [ISS 126: Number Theory](iss126.html)
 
-![ ](/Users/admin/Documents/GitHub/maths/band4.png)
+![ ](/Users/admin/Documents/GitHub/maths/d2.png)
