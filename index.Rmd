@@ -1,11 +1,6 @@
- 
- 
  <img src="/Users/admin/Documents/GitHub/maths/d.png" style="width:40%; border:2px solid; margin-right: 20px" align="left">
 
  [HIT 122: Mathematics For Technologists II](hit122.html)
 
  [ISS 126: Number Theory](iss126.html)
-
-
- 
 
