@@ -1,5 +1,7 @@
 ---
 
 ---
+<link rel="stylesheet" href="rmarkdown.css" type="text/css">
+
 
 ![ ](/Users/admin/Documents/GitHub/maths/band4.png)
