@@ -6,6 +6,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html 
