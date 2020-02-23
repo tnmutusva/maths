@@ -1,10 +1,13 @@
 ---
-title: "ISS 126 Nunber Theory"
+title: "ISS 126 Number Theory"
 output:
   html_document:
     toc: true
     toc_depth: 4
 ---
+
+Assessment shall comprise of 3 in class tests, one assignment and an end of semester examination. The end of semester examination counts 75%, and the continuous assessment counts 25% towards the final mark. Only those who score an average of 50% in the 3 tests will be allowed to write the end of semester 
+examination. All tests and the exam are mandatory. Discuss any potential conflicts well before the test/exam date.
 
 ### Course Content
 (@) Divisibility, Modular Arithmetic.
@@ -20,7 +23,7 @@ For the detailed Course Outline click the link below:
 
 ### Worksheets
 
-<div class="col2">
+
 #### 2020
 
 #### 2019
@@ -33,9 +36,17 @@ For the detailed Course Outline click the link below:
 
 [Worksheet 5 (2019)](https://drive.google.com/open?id=1FBWHWO7qFAVjMFiMs8h1H1okjYaQmbxQ)
 
-</div>
+
 
 ### Tests
+
+#### 2019
+
+[Test 1 (2019)](https://drive.google.com/open?id=1x45fOVCdbA_2_zk7DFK4e2hjSl-2f0-N)
+
+[Test 2 (2019)](https://drive.google.com/open?id=1fOf75pgH_YapE-bPSAUPoIiJwp4qQixI)
+
+[Test 2 (2019) Model Answers](https://drive.google.com/open?id=1-EePUcEaswaJOzcIHrrcPw9HB0ZQEHeb)
 
 ### Past Examinations
 
