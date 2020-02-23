@@ -3,7 +3,7 @@ title: "HIT 122: Mathematics For Technologists II"
 output:
   html_document:
     toc: true
-    toc_depth: 3
+    toc_depth: 4
 ---
 
 ### Course Content
@@ -13,6 +13,8 @@ output:
 (@) Laplace Transforms
 
 ### Worksheets
+#### 2019
+[Worksheet 1 (2019)](https://drive.google.com/file/d/1QqQITzFhzlM4vkRXTLAVYAdOmQDvzbQB/view?usp=sharing)
 
 ### Tests
 
