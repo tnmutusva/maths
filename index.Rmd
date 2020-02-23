@@ -1,11 +1,11 @@
+ ![ ](/Users/admin/Documents/GitHub/maths/d2.png)
  
- 
- <img src="/Users/admin/Documents/GitHub/maths/d.png" style="width:45%; border:3px solid; margin-right: 20px" align="left">
+ <img src="/Users/admin/Documents/GitHub/maths/d.png" style="width:45%; border:0.5px solid; margin-right: 20px" align="left">
 
 ### [HIT 122: Mathematics For Technologists II](hit122.html)
 
 ### [ISS 126: Number Theory](iss126.html)
 
 
- ![ ](/Users/admin/Documents/GitHub/maths/band4.png)
+ 
 
