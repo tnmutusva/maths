@@ -8,7 +8,9 @@ navbar:
       href: index.html
   right:
     - icon: fa-envelope fa-lg
-      href: contact.html  
+      href: contact.html 
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/trevormutusva/
 
 output:
   html_document:
