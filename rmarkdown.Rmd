@@ -1,8 +1,108 @@
 ---
-title: "rmarkdown"
+title: "Rmarkdown"
 
 ---
 
+Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-# R Markdown
+![ ](/Users/admin/Documents/GitHub/maths/bandThree2.png)
 
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Including Maths Formulas
+
+To put a maths formula in a sentence, we put the formula inside dollar signs
+
+The quadratic equation $ax^2 + bx + c = 0$
+
+To put a Maths formula as a centered equation, we put it inside double dollar signs
+
+then it will come out as an equation which is centered $$ax^2 + bx + c = 0$$
+
+To include fractions, we use the Frac command
+
+$$y=\frac{x^2+1}{3}$$
+
+To include Greek letters, you just type backslash before the Greek letter
+
+$$\beta$$
+$$\alpha$$
+
+
+
+## Basic Commands
+
+```{r}
+3+3
+```
+
+
+
+Addition
+
+
+```{r}
+3+2
+```
+
+Subtraction
+```{r}
+3-2
+```
+
+Multiplication
+
+```{r}
+3*2
+```
+
+Division
+
+```{r}
+3/2
+```
+
+Exponentiation
+
+```{r}
+3^2
+```
+
+Assign Value
+
+```{r}
+x<-10
+x+5
+
+```
+
+Creating A set of Numbers
+```{r}
+y<-c(1,2,3)
+y
+```
+
+Sequences
+
+To create numbers from 1 to 15
+
+```{r}
+seq(1,15)
+
+```
+
+To create a sequence with a defined spacing
+
+```{r}
+seq(1,15,by=0.5)
+```
+
+
+## Plots
+
+To plot a scatter plot for dataframe pressure
+
+
+```{r}
+plot(pressure)
+```
