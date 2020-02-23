@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "Contact"
       href: contact.html
+    - text: "R Markdown"
+      href: rmarkdown.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html 
