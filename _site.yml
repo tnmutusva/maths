@@ -6,10 +6,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "HIT Mathematics"
-      href: HIT_mathematics.html
-    - text: "rmarkdown"
-      href: rmarkdown.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html  
 
 output:
   html_document:
@@ -17,7 +16,6 @@ output:
     highlight: textmate
     include:
      after_body: footer.Rhtml
-     
-     
+    
      
      
