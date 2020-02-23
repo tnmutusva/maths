@@ -1,5 +1,42 @@
 ---
-title: "ISS 126"
+title: "ISS 126 Nunber Theory"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
 ---
 
-![ ](/Users/admin/Documents/GitHub/maths/band4.png)
+### Course Content
+(@) Divisibility, Modular Arithmetic.
+(@) Prime Numbers.
+(@) Congruences.
+(@) Arithmetical Functions.
+(@) Chinese Remainder Theorem, RSA.
+(@) Quadratic Reciprocity and Elliptic Curves.
+
+For the detailed Course Outline click the link below:
+
+[Course Outline](https://drive.google.com/open?id=12LpiMGlD7fR1MK2QDEQGwOjTaN6qHRHC)
+
+### Worksheets
+
+<div class="col2">
+#### 2020
+
+#### 2019
+
+[Worksheet 2 (2019)](https://drive.google.com/open?id=1IxQjHRzgl7pRVcLeZAmx08HDswfzDZXF)
+
+[Worksheet 3 (2019)](https://drive.google.com/open?id=1t7qbVjqfkI7NbI6Ofeutn-CE4epEePVU)
+
+[Worksheet 4 (2019)](https://drive.google.com/open?id=1ZuceV9EMnIeb9RDp8H3NFUHDSOT_Nct7)
+
+[Worksheet 5 (2019)](https://drive.google.com/open?id=1FBWHWO7qFAVjMFiMs8h1H1okjYaQmbxQ)
+
+</div>
+
+### Tests
+
+### Past Examinations
+
+![ ](/Users/admin/Documents/GitHub/maths/d2.png)
